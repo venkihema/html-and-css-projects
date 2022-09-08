@@ -1,0 +1,30 @@
+.main{
+    float: right;
+    display: grid;
+    grid-template-rows: 200px 200px 200px;
+    width: 50%;
+    height: 600px;
+    border: 10px solid grey;
+    padding: 10px;
+}
+.content{
+    display:flex;
+    justify-content: space-between;
+
+}
+.date{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    background-color:black;
+    color: white;
+    margin-left: 20px;
+}
+.details{
+    width: 450px;
+    height: 150px;
+    text-align: justify;
+    margin:0cm;
+}

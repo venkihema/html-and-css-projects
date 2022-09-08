@@ -1,0 +1,37 @@
+#survey-form{
+    background-color: wheat;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    line-height: 20px;
+    border: 2px solid gray;
+    padding: 20px;
+    font-family: ubuntu;
+
+}
+h1{
+    text-shadow: 2px 2px 5px lightblue;
+    text-decoration: underline;
+    margin-bottom: 50px;
+}
+.name input{
+    border: 2px solid rgb(26, 52, 61);
+    border-radius: 10px;
+    background-color: rgb(209, 226, 220);
+}
+.department input{
+    border: 2px solid rgb(26, 52, 61);
+    border-radius: 10px;
+    background-color: rgb(209, 226, 220);
+}
+.submit input{
+    border: 2px solid rgb(26, 52, 61);
+    border-radius: 10px;
+    background-color: rgb(209, 226, 220);
+}
+.movies select{
+    border: 2px solid rgb(26, 52, 61);
+    border-radius: 10px;
+    background-color: rgb(209, 226, 220);
+}
+
